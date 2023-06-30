@@ -1,4 +1,5 @@
-await
+**Await**
+
 The await operator is used to wait for a Promise and get its fulfillment value. It can only be used inside an async function or at the top level of a module.
 
 Syntax
